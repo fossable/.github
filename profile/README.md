@@ -10,4 +10,4 @@ irresistable value at the expense of users' freedom and privacy. Most users prob
 didn't even notice the power shift that occurred.
 
 But it doesn't have to be that way! **fossable** is about building SaaS that doesn't
-compromise on features or freedom, and inspiring others to do the same.
+forfeit features for freedom, and inspiring others to do the same.
