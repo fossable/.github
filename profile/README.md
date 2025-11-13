@@ -1,4 +1,4 @@
-# Fossable: _control your computing_
+# _Control your computing_
 
 It has never been easier to give away control of your computing experience to
 someone else:
@@ -36,4 +36,4 @@ designed to help us maintain control of our computing. To name them all:
   and installing customized golden images of your OS.
 
 Fossable is not a business of any kind. Rather, it's like a _social movement_
-with the ultimate goal of empowering users to **control our computing!**
+with the primary goal of empowering users to **control our computing!**
