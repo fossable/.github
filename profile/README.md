@@ -16,6 +16,8 @@ but it's not like I'm interested in bringing it to life in the real world!
 
 ## Fossable
 
+![](./fossable.svg)
+
 So welcome to `fossable.org`. This is the home of some free software projects
 designed to help us maintain control of our computing. To name them all:
 
