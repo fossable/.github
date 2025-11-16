@@ -16,7 +16,7 @@ but it's not like I'm interested in bringing it to life in the real world!
 
 ## Fossable
 
-![](./fossable.svg)
+<img src="https://raw.githubusercontent.com/fossable/.github/refs/heads/master/profile/fossable.svg" style="width:70%; height:auto;">
 
 So welcome to `fossable.org`. This is the home of some free software projects
 designed to help us maintain control of our computing. To name them all:
