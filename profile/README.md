@@ -18,14 +18,14 @@ SaaS (Software as a Service) is a computing paradigm where functionality is no
 longer delivered via software that the user installs and manages on their own
 hardware, but rather via central web services that users connect to.
 
-This model has undeniable benefits, but it also covertly shifts a significant
-amount of power from users to SaaS companies. Some of which take advantage of
+The SaaS model has undeniable benefits, but it covertly shifts a significant
+amount of power from users to large companies. Many of which take advantage of
 their unsuspecting users to yield incredible profits. SaaS enables this
 exploitation at a level that simply wasn't possible before.
 
 So SaaS isn't inherently bad, but it enables bad outcomes when mixed with enough
 corporate greed. How can we take advantage of the good things SaaS has to offer
-while ensuring users are not heading towards an Orwellian digital dystopia?
+while ensuring we're not heading towards an Orwellian digital dystopia?
 
 ## Fossable
 
@@ -34,8 +34,8 @@ while ensuring users are not heading towards an Orwellian digital dystopia?
 </div>
 
 So welcome to `fossable.org`. This is the home of some free software projects
-designed to help us maintain control of our computing. To highlight a few of
-them:
+that help us reclaim or maintain control of our computing. To highlight the main
+ones:
 
 - [outpost](https://www.fossable.org/projects/outpost/) is a tunneling
   application that allows you to self-host applications on the public Internet,
@@ -53,5 +53,13 @@ them:
 - [gantry](https://www.fossable.org/projects/gantry/) is a "SaaS vending
   machine" that hosts SaaS applications in exchange for cryptocurrency.
 
-Fossable is not a business of any kind. Rather, it's like a _social movement_
-with the primary goal of empowering users to **control our computing!**
+- [workset](https://www.fossable.org/projects/workset/) is a git workspace
+  manager that makes it easy to control where your repos are hosted.
+
+Fossable is not a business or foundation of any kind. We don't have trademarks,
+copyrights, or licenses. Really it's just a group of free software projects with
+a common thread of empowering users to **maintain control of their computing**.
+
+If that sounds worthwhile, hop in on one of the projects above! Contributions
+are the preferred way to support the cause, but I guess you can also use
+[Github Sponsors](https://github.com/sponsors/cilki) as well.
